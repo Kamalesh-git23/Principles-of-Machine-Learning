@@ -157,24 +157,20 @@ After completing this experiment, you will be able to:
 
 ## ▶️ How to Run
 
-### 1️⃣ Install required libraries
-
-pip install numpy pandas matplotlib seaborn scikit-learn
-
-
+1. Install required libraries
+  
+  - pip install numpy pandas matplotlib seaborn scikit-learn
 
 
-### 2️⃣ Launch Jupyter Notebook
+2. Launch Jupyter Notebook
+  - jupyter notebook
 
-jupyter notebook
-
-### 3️⃣ Open and run
-
-Open Ex6.ipynb and execute cells sequentially.
+3. Open and run
+  - Open Ex6.ipynb and execute cells sequentially.
 
 ---
 
-📌 Conclusion
+## 📌 Conclusion
 
 This experiment demonstrates that the Random Forest Classifier outperforms the Decision Tree Classifier in terms of stability, generalization, and overall predictive performance.
 

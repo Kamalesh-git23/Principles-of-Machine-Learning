@@ -103,18 +103,16 @@ After completing this experiment, you will be able to:
 
 1. Install required libraries:
 
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
+  - pip install pandas numpy matplotlib seaborn scikit-learn
 
 2. Open Jupyter Notebook:
-
-    jupyter notebook
+  - jupyter notebook
 
 
 3. Open and run Ex2.ipynb cell by cell.
 
 ---
 
-📌 Conclusion
+## 📌 Conclusion
 
 This experiment demonstrates the effectiveness of Naïve Bayes classifiers for spam detection. By comparing Gaussian, Multinomial, and Bernoulli Naïve Bayes models, the experiment highlights how different assumptions impact classification performance.

@@ -84,19 +84,17 @@ After completing this experiment, you will be able to:
 ## ▶️ How to Run
 
 1. Install required libraries:
-
-   ```bash
-   pip install numpy pandas matplotlib scikit-learn
+    - pip install numpy pandas matplotlib scikit-learn
 
 2. Open Jupyter Notebook:
 
-    jupyter notebook
+    - jupyter notebook
 
 
 3. Open and run Ex3.ipynb cell by cell.
 
 ---
 
-📌 Conclusion
+## 📌 Conclusion
 
 This experiment demonstrates how Linear Regression can be used to model relationships between variables and make predictions. The results highlight the importance of data preprocessing and evaluation in regression tasks.

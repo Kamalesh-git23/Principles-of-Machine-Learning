@@ -112,20 +112,17 @@ After completing this experiment, you will be able to:
 
 1. Install required libraries:
 
-   ```bash
-   pip install numpy pandas matplotlib scikit-learn tensorflow
-
+   - pip install numpy pandas matplotlib scikit-learn tensorflow
 
    
 2. Open Jupyter Notebook:
 
-    jupyter notebook
-
+    - jupyter notebook
 
 3. Open and run Ex4.ipynb cell by cell.
 
 ---
 
-📌 Conclusion
+## 📌 Conclusion
 
 This experiment demonstrates that the Multilayer Perceptron significantly outperforms the Single-Layer Perceptron for handwritten character recognition. While PLA is simple and computationally efficient, it fails to capture nonlinear patterns. The MLP, when combined with proper hyperparameter tuning, achieves higher accuracy and stable convergence, making it more suitable for complex image-based classification tasks.

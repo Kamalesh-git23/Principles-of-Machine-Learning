@@ -86,18 +86,17 @@ After completing this experiment, you will be able to:
 
 1. Install required libraries:
 
-   ```bash
-   pip install numpy pandas matplotlib scikit-learn
+   - pip install numpy pandas matplotlib scikit-learn
 
 2. Open Jupyter Notebook:
 
-    jupyter notebook
+    - jupyter notebook
 
 
 3. Open and run Ex4.ipynb cell by cell.
 
 ---
 
-📌 Conclusion
+## 📌 Conclusion
 
 This experiment demonstrates the use of Logistic Regression for solving binary classification problems. The results show how Logistic Regression can effectively classify data based on learned decision boundaries.

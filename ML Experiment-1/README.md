@@ -74,19 +74,18 @@ After completing this experiment, you will be able to:
 
 1. Install the required libraries:
 
-   ```bash
-   pip install numpy pandas matplotlib
+   - pip install numpy pandas matplotlib
 
 
 2. Open Jupyter Notebook:
 
-    jupyter notebook
+    - jupyter notebook
 
 
 3. Open and run Ex1.ipynb cell by cell.
 
 ---
 
-📌 Conclusion
+## 📌 Conclusion
 
 This experiment provides a foundational understanding of Python tools used in Machine Learning. It prepares learners for implementing Machine Learning algorithms in future experiments.
